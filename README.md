@@ -41,6 +41,7 @@ algorithm-study/
 | Data Structures | Stack | [Stack.md](Data-Structures/Stack.md) |
 | Data Structures | Queue / Deque | [Queue.md](Data-Structures/Queue.md) |
 | Algorithms | DFS / BFS | [DFS-BFS.md](Algorithms/DFS-BFS.md) |
+| Algorithms | Sort | [Sorting.md](Algorithms/Sorting.md) |
 | Review | Debugging notes | [Mistakes.md](Mistakes.md) |
 
 ## Solved Problems
