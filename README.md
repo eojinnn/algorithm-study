@@ -44,7 +44,7 @@ algorithm-study/
 | Data Structures | Queue / Deque | [Queue.md](Data-Structures/Queue.md) |
 | Algorithms | DFS / BFS | [DFS-BFS.md](Algorithms/DFS-BFS.md) |
 | Algorithms | Sort | [Sorting.md](Algorithms/Sorting.md) |
-| Algorithms | DP | [Dynamic Programming (DP).md](Algorithms/Dynamic-Programming.md) |
+| Algorithms | DP | [Dynamic Programming.md](Algorithms/Dynamic-Programming.md) |
 | Review | Debugging notes | [Mistakes.md](Mistakes.md) |
 
 ## Solved Problems
