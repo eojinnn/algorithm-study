@@ -27,6 +27,8 @@ algorithm-study/
 │   └── Queue.md
 ├── Algorithms/
 │   └── DFS-BFS.md
+|   └── Sorting.md
+|   └── Dynamic-Programming.md
 ├── Solutions/
 │   └── Programmers/
 │       ├── 42586_feature_development.py
