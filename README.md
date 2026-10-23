@@ -29,6 +29,7 @@ algorithm-study/
 │   └── DFS-BFS.md
 |   └── Sorting.md
 |   └── Dynamic-Programming.md
+|   └── Greedy.md
 ├── Solutions/
 │   └── Programmers/
 │       ├── 42586_feature_development.py
@@ -45,6 +46,7 @@ algorithm-study/
 | Algorithms | DFS / BFS | [DFS-BFS.md](Algorithms/DFS-BFS.md) |
 | Algorithms | Sort | [Sorting.md](Algorithms/Sorting.md) |
 | Algorithms | DP | [Dynamic Programming.md](Algorithms/Dynamic-Programming.md) |
+| Algorithms | greedy | [greedy.md](Algorithms/Greedy.md) |
 | Review | Debugging notes | [Mistakes.md](Mistakes.md) |
 
 ## Solved Problems
