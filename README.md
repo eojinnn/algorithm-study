@@ -30,6 +30,7 @@ algorithm-study/
 |   └── Sorting.md
 |   └── Dynamic-Programming.md
 |   └── Greedy.md
+|   └── Brute Force & Backtracking.md
 ├── Solutions/
 │   └── Programmers/
 │       ├── 42586_feature_development.py
@@ -47,6 +48,7 @@ algorithm-study/
 | Algorithms | Sort | [Sorting.md](Algorithms/Sorting.md) |
 | Algorithms | DP | [Dynamic Programming.md](Algorithms/Dynamic-Programming.md) |
 | Algorithms | greedy | [greedy.md](Algorithms/Greedy.md) |
+| Algorithms | Brute Force & Backtracking | [Brute Force & Backtracking](Algorithms/Brute-Force-Backtracking.md) |
 | Review | Debugging notes | [Mistakes.md](Mistakes.md) |
 
 ## Solved Problems
