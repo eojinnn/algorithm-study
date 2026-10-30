@@ -59,6 +59,15 @@ algorithm-study/
 | :--- | :--- | :--- | :--- | :--- |
 | Programmers | [42586. 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Sequential grouping, O(N) | [Python](Solutions/Programmers/42586_feature_development.py) | [Explanation](Solutions/Programmers/42586_feature_development.md) |
 
+## Archived Baekjoon Solutions
+
+Earlier Python coding-practice repositories have been consolidated into [Solutions/Baekjoon](Solutions/Baekjoon/README.md) for reference:
+
+- [early-practice](Solutions/Baekjoon/early-practice) — 73 Python solutions from the original BaekJoon repository, plus supporting files.
+- [solved-ac](Solutions/Baekjoon/solved-ac) — 24 Python solutions from the original solved.ac repository, plus its README.
+
+These solutions are personal learning records, separate from the study notes maintained here. The original repositories remain available and were not deleted.
+
 ## Problem-Solving Workflow
 
 1. Identify input constraints and edge cases.
